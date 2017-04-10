@@ -1,0 +1,40 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CUBED#2
+  rotate: false
+  xy: 1, 1
+  size: 195, 125
+  orig: 195, 125
+  offset: 0, 0
+  index: -1
+CUBED#3
+  rotate: false
+  xy: 198, 1
+  size: 193, 125
+  orig: 193, 125
+  offset: 0, 0
+  index: -1
+CUBED#4
+  rotate: false
+  xy: 393, 1
+  size: 193, 125
+  orig: 193, 125
+  offset: 0, 0
+  index: -1
+CUBED#5
+  rotate: false
+  xy: 588, 1
+  size: 193, 125
+  orig: 193, 125
+  offset: 0, 0
+  index: -1
+Untitled
+  rotate: false
+  xy: 783, 68
+  size: 121, 58
+  orig: 121, 58
+  offset: 0, 0
+  index: -1
